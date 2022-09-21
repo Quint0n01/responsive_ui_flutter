@@ -1,16 +1,5 @@
 # responsive_ui
 
-A new Flutter project.
+This responsive UI project automatically detects the screen size and device orientation, and adjust the view according to that. This allows you to have separate design and layouts for your app for every screen size and orientation. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Code is written for Mobile Portrait View, Mobile Landscape View, Tablet Portrait View, Tablet Landscape View, and Desktop View.
